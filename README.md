@@ -1,5 +1,5 @@
 # ALL-GANs
-try to collect all GANs papers
+try to collect GANs papers
 
 ## March, 2020
 
